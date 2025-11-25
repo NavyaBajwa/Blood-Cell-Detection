@@ -9,3 +9,9 @@ The model was trained in Google Colab using a dataset from Roboflow.
 - Google Colab training pipeline (GPU-accelerated)
 - Automatic generation of training metrics (mAP, precision, recall)
 - Supports inference on new images
+
+## Screenshots
+
+![Interface](bloodCell_Interface.png)
+![Example Detection](bloodCellCountExample.png)
+
