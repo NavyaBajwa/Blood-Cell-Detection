@@ -1,5 +1,5 @@
 # Blood Cell Detection Using YOLOv10
-This project uses YOLOv10 to detect and classify blood cells from microscopic images.
+This project uses the machine learning model, YOLOv10 to detect and classify blood cells from microscopic images.
 The model was trained in Google Colab using a dataset from Roboflow.
 
 ## Features
